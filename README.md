@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/O6nT9DSoiUVYQ/giphy.gif" alt="banner" align="center" height="320px" width="1084px">
+<img src="https://media.giphy.com/media/ToMjGplMhvFmZ6GdWCI/giphy.gif" alt="banner" align="center" height="320px" width="1084px">
 
 <h1 align="center">Hi 👋, I'm Rajesh Choudhary</h1>
 <h3 align="center">A curious creature from India</h3>
