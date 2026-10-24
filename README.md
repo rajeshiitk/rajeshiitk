@@ -6,7 +6,7 @@ Mobile and full-stack engineer in Bengaluru. IIT Kanpur, B.Tech in Electrical En
 
 - [LumaCaption](https://www.lumacaption.com): AI video captions in 100+ languages and scripts, with paying users. A self-hosted Hinglish speech model costs about 60% less per minute than ElevenLabs.
 - [Blinzo](https://blinzo.chat): peer-to-peer WebRTC video chat that matches people by shared interests, with a self-hosted TURN relay and on-device moderation.
-- [SwishCut](https://swishcut.com): a voice-powered Android video editor, in development. A Flutter UI over a native Rust engine with a multi-track timeline, GPU effects, on-device ML and hardware 4K export.
+- [SwishCut](https://swishcut.com): a voice-powered Android video editor, in development. A Flutter UI over a native Rust engine with a multi-track timeline, GPU effects, on-device ML and hardware H.264 export.
 
 ## Stack
 
